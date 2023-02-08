@@ -1,0 +1,19 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-timeheist-dev-155916-authRole",
+      "UnauthRoleArn": "arn:aws:iam::907056682062:role/amplify-timeheist-dev-155916-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::907056682062:role/amplify-timeheist-dev-155916-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-timeheist-dev-155916-deployment",
+      "UnauthRoleName": "amplify-timeheist-dev-155916-unauthRole",
+      "StackName": "amplify-timeheist-dev-155916",
+      "StackId": "arn:aws:cloudformation:ap-south-1:907056682062:stack/amplify-timeheist-dev-155916/77aafc30-8642-11eb-a16c-02c7fb28a316"
+    },
+    "categories": {
+      "auth": {
+        "timeheist69fe9a8c": {}
+      }
+    }
+  }
+}
